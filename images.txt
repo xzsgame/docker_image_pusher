@@ -3,7 +3,8 @@
 #redis:alpine
 #mariadb:10.7
 #traefik:2.6
-minio/minio:RELEASE.2022-02-05T04-40-59Z
+#minio/minio:RELEASE.2022-02-05T04-40-59Z
+debian:11-slim
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
